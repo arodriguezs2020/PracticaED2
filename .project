@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>MyPyton</name>
+=======
+	<name>ProyectoGIT_Asignatura</name>
+>>>>>>> fbac645d92becd6f7ae7eb81b0da8b45354c2c92
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>org.python.pydev.PyDevBuilder</name>
+=======
+			<name>org.eclipse.jdt.core.javabuilder</name>
+>>>>>>> fbac645d92becd6f7ae7eb81b0da8b45354c2c92
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
 		<nature>org.python.pydev.pythonNature</nature>
+=======
+		<nature>org.eclipse.jdt.core.javanature</nature>
+>>>>>>> fbac645d92becd6f7ae7eb81b0da8b45354c2c92
 	</natures>
 </projectDescription>
